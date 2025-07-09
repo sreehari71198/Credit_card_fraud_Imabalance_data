@@ -7,5 +7,5 @@ This report examines a dataset of credit card transactions from European cardhol
 
 Features V1 through V28 are principal components derived from a PCA transformation to protect sensitive information. The dataset includes two non-transformed features: Time, representing seconds elapsed since the first transaction, and Amount, indicating the transaction value. The target variable, Class, is binary, with one denoting fraud and 0 indicating legitimate transactions
 
-[View the Notebook Output](Credit_Card.html)
+[Display Results](Credit_Card.html)
 
