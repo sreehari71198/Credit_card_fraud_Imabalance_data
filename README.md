@@ -1,4 +1,4 @@
-# Credit_card_fraud_Imabalance_data
+# Credit Card Fraud with Imbalance data
 Addressing Class Imbalance in Credit Card Fraud Detection Using Ensemble Learning Techniques
 
 Credit card fraud poses a persistent threat to financial institutions and consumers, necessitating advanced detection mechanisms to safeguard transactions and uphold confidence in digital payments. Identifying fraudulent activities swiftly is paramount to reducing economic losses and ensuring customer satisfaction.
